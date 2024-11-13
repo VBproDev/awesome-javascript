@@ -288,7 +288,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [swig](https://github.com/paularmstrong/swig) - (Archived) A simple, powerful, and extendable Node.js and browser-based JavaScript template engine.
 
 ## Game Engines
-* [Canvascript] - A tool for creating, editing HTML canvas graphics without writing code.
+* [Canvascript](https://github.com/VBproDev/Canvascript) - A tool for creating, editing HTML canvas graphics without writing code.
 * [A-Frame](https://aframe.io) - Make WebVR.
 * [Cocos](https://www.cocos.com) - Open Source Cross-Platform Game Development Framework.
 * [Impact](https://impactjs.com) - Impact - HTML5 Canvas & JavaScript Game Engine.
